@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.headerone {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.phone {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.headertwo {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.mini {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.headerthree {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+
